@@ -11,9 +11,10 @@ Welcome to Blocksi-sucks, forked from 3kh0 lite, for everyone who hates blocksi.
 - Lightweight
 - unblocked
 
-## Get your copy
+## adding proxys soon
 
-This site is supposed to be simple yet extendable. You can edit this to your heart's content, but I respectfully ask that you credit me somehow.
+This site was created because i hate blocksi and needed to name a game website after it. if you have any game or proxy recemendations please comment them.
+
 1. Fork this repo (give star pls :D)
 2. Edit the files. (mainly the files in the `config` folder)
 3. Optionally, add more games. ([Get some here](https://gitlab.com/3kh0/3kh0-assets))
