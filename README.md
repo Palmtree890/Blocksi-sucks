@@ -1,7 +1,6 @@
 # Blocksi sucks *lite*
 
-
-[![GitHub stars](https://img.shields.io/github/stars/palmtree890/Blocksi-sucks?style=social)](https://github.com/palmtree890/Blocksi-sucks/stargazers)    ![Visitors](https://komarev.com/ghpvc/?username=palmtree890&repo=Blocksi-sucks&style=social)
+[![GitHub stars](https://img.shields.io/github/stars/palmtree890/Blocksi-sucks?style=social)](https://github.com/palmtree890/Blocksi-sucks/stargazers) ![Repo Views](https://komarev.com/ghpvc/?username=palmtree890&repo=Blocksi-sucks&style=social&label=Repo+Views)
 
 Welcome to Blocksi-sucks, forked from 3kh0 lite, for everyone who hates blocksi.
 
