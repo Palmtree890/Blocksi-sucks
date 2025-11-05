@@ -2,6 +2,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/palmtree890/Blocksi-sucks?style=social)
 
+https://komarev.com/ghpvc/?username=[palmtree890]&repo=[Blocksi-sucks]
+
 Welcome to Blocksi-sucks, forked from 3kh0 lite, for everyone who hates blocksi.
 
 ## Features
