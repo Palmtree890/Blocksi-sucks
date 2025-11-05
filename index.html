@@ -23,23 +23,27 @@
         align-items: center;
         justify-content: center;
         height: 100vh;
+        cursor: url('/images/palmtree-cursor.png'), auto; /* 🌴 Custom cursor */
       }
+
       h1 {
         font-size: 3em;
         text-align: center;
         text-shadow: 0 0 10px #00ffcc;
       }
+
       #subtitle {
         font-size: 1.5em;
         margin-bottom: 1rem;
       }
+
       p {
         text-align: center;
         max-width: 600px;
         margin: 20px auto;
       }
+
       button {
-        cursor: pointer;
         background-color: #00ffcc;
         border: none;
         color: #000;
@@ -49,15 +53,19 @@
         margin-top: 20px;
         box-shadow: 0 0 15px #00ffcc;
         transition: transform 0.2s ease-in-out;
+        cursor: url('/images/palmtree-cursor.png'), pointer; /* 🌴 Cursor on buttons */
       }
+
       button:hover {
         transform: scale(1.05);
       }
+
       .secondary {
         background-color: #cc25b6;
         color: white;
         margin-top: 10px;
       }
+
       a {
         text-decoration: none;
       }
@@ -78,7 +86,4 @@
     <script src="/js/main.js"></script>
     <script src="/js/subtitle.js"></script>
   </body>
-</html>
-
-
 </html>
