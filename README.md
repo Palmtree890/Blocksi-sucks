@@ -1,6 +1,6 @@
 # Blocksi sucks *lite*
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/palmtree890/Blocksi-sucks?style=social)
 
 Welcome to Blocksi-sucks, forked from 3kh0 lite, for everyone who hates blocksi.
 
