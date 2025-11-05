@@ -21,10 +21,12 @@ This site was created because i hate blocksi and needed to name a game website a
 > A known issue is game files; because some games are massive, they will fail on many services. There is no straightforward fix, but you can try to host the files on your server.
 ## Configuration
 
-BIG thanks to the original creator of almost all of the HTML code, 3kh0 as this would not be possible without him. viset his repo and give him a star.
-
 All the configuration is done in the `config` folder.
 - `games.json`: It contains the games' names, icons, and link.
+
+## Thanks
+
+BIG thanks to the original creator of almost all of the HTML code, 3kh0 as this would not be possible without him. viset his repo and give him a star.
 
 ## To-Do
 - Make it easier to add games
