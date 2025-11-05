@@ -1,4 +1,4 @@
-# Blocksi sucks 3kh0 *lite*
+# Blocksi sucks *lite*
 
 Welcome to Blocksi-sucks, forked from 3kh0 lite, for everyone who hates blocksi.
 
